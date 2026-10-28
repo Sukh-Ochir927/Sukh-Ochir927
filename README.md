@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Location](https://img.shields.io/badge/📍_Ulaanbaatar,_Mongolia-0d1117?style=flat-square)
 ![Role](https://img.shields.io/badge/💼_Full--Stack_Developer-2ea043?style=flat-square)
 
-[![Email](https://img.shields.io/badge/EMAIL-SAY_HI-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-SAY_HI-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batjargalsukhochir27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 </div>
